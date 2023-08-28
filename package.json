@@ -13,7 +13,7 @@
 		"components"
 	],
 	"license": "MIT",
-	"repository": "privatenumber/vue-2-3",
+	"repository": "https://github.com/i-www/vue-2-3.git",
 	"funding": "https://github.com/privatenumber/vue-2-3?sponsor=1",
 	"author": {
 		"name": "Hiroki Osame",
