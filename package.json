@@ -2,6 +2,9 @@
 	"name": "vue-2-3",
 	"version": "0.0.0-semantic-release",
 	"description": "Interop Vue 2 components in Vue 3 apps and vice versa",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	},
 	"keywords": [
 		"vue",
 		"vue 2",
